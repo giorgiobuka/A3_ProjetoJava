@@ -1,0 +1,8 @@
+# Ignorar arquivos compilados Java
+*.class
+
+# Ignorar arquivos do sistema macOS
+.DS_Store
+
+# Ignorar outras coisas que não quer subir
+*.log
